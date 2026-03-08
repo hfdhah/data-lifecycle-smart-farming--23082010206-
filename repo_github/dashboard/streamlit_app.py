@@ -11,7 +11,6 @@ st.set_page_config(
     page_title="Smart Farming Dashboard",
     layout="wide"
 )
-
 st.title("Smart Farming Sensor Dashboard")
 
 # load data
@@ -74,7 +73,6 @@ fig_ts = px.line(
 )
 fig_ts.update_layout(xaxis_tickangle=-45)
 st.plotly_chart(fig_ts, use_container_width=True)
-
 st.markdown("---")
 
 # visualisasi 2: gauge meter
@@ -180,5 +178,6 @@ with st.expander("Lihat Data yang Trigger Alert"):
         ],
         use_container_width=True
     )
+
 
 
