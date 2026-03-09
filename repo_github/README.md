@@ -6,10 +6,10 @@ faktor-faktor yang dapat memengaruhi hasil panen.
 
 Dataset
 ---
-Sumber: Smart Farming Sensor data for Yield Prediction - Kaggle
-Link: https://www.kaggle.com/datasets/atharvasoundankar/smart-farming-sensor-data-for-yield-prediction/code
-Jumlah Data: 500 baris, 22 kolom
-Periode: Januari-Agustus 2024
+- Sumber: Smart Farming Sensor data for Yield Prediction - Kaggle
+- Link: https://www.kaggle.com/datasets/atharvasoundankar/smart-farming-sensor-data-for-yield-prediction/code
+- Jumlah Data: 500 baris, 22 kolom
+- Periode: Januari-Agustus 2024
 
 Kolom Utama
 ---
