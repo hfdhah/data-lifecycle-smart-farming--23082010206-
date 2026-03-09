@@ -31,7 +31,7 @@ Threshold yang digunakan
 | Temperature    | > 35°C           | Suhu terlalu panas  |
 | Soil pH        | < 5.5 atau > 7.5 | pH tidak ideal      |
 
-DATA QUALITY SCORE REPORT
+Data Quality Score Report
 ---
 | Metrik           | Formula                          | Hasil  |
 |------------------|----------------------------------|--------|
