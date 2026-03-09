@@ -33,14 +33,11 @@ Threshold yang digunakan
 
 DATA QUALITY SCORE REPORT
 ---
-Total Rows: 500
-Missing Values: 280
-Accuracy: 0.9745 (97.45%)
-Completeness: 0.9745 (97.45%)
-Timeliness: 0.0140 (1.40%)
-________________________________
-Overall DQ Score: 0.6544 (65.44%)
--
+| Metrik        | Formula                          | Hasil  |
+|---------------|----------------------------------|--------|
+| Accuracy      | 1 - (missing values / total)     | ~100%  |
+| Completeness  | non-null values / total values   | ~100%  |
+| Timeliness    | % data dalam 30 hari terakhir    | ~17%   |
 
 Link streamlit yang dapat dijalankan
 ---
